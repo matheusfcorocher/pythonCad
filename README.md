@@ -16,19 +16,19 @@ Para rodar o projeto, clone ele e depois de o seguinte comando:
  - Você usa o botão esquerdo do mouse para usar os botões e também no próprio canvas.
  
 Para criar uma linha:
-  - Você precisa dar 2 clicks no canvas(quadro branco)
+  - Seleciona o botão Linha com o botão esquerdo do mouse e depois você precisa dar 2 clicks no canvas(quadro branco)
   
 Para criar um quadrado:
-  - Você precisa dar 4 clicks no canvas(quadro branco)
+  - Seleciona o botão Quadrado com o botão esquerdo do mouse e depois você precisa dar 4 clicks no canvas(quadro branco)
   
 Para criar um triângulo:
-  - Você precisa dar 3 clicks no canvas(quadro branco)
+  - Seleciona o botão Triângulo com o botão esquerdo do mouse e depois você precisa dar 3 clicks no canvas(quadro branco)
   
 Para criar um círculo:
-  - Você precisa dar 2 clicks no canvas(quadro branco)
+  - Seleciona o botão Círculo com o botão esquerdo do mouse e depois você precisa dar 2 clicks no canvas(quadro branco)
   
 Para transladar uma figura geométrica:
-  - Você clicka na figura e arasta ela pelo canvas
+  - Seleciona o botão Linha com o botão esquerdo do mouse e depois você clicka na figura e arasta ela pelo canvas
   
 Para rotacionar uma figura geométrica:
   - Você clicka na figura escolhe um ângulo de rotação e clicka no botão rotação e clicka na figura
