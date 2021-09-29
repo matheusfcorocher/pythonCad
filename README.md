@@ -10,8 +10,9 @@ As dependências que são precisas para rodar o projeto são:
   tkinter, numpy, pygame, OpenGL
 Logo, precisa dar:
   pip install tkinter, numpy, pygame , OpenGL
+
 Para rodar o projeto, clone ele e depois de o seguinte comando:
-  python basicCanva.py
+  - python basicCanva.py
 
 ## Como utiliza-lo?
  
