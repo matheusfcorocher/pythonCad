@@ -11,8 +11,9 @@ Logo, precisa dar:
 Para rodar o projeto, clone ele e depois de o seguinte comando:
   python basicCanva.py
 
-Como utiliza-lo?
- Você usa o botão esquerdo do mouse para usar os botões e também no próprio canvas.
+## Como utiliza-lo?
+ 
+ - Você usa o botão esquerdo do mouse para usar os botões e também no próprio canvas.
  
 Para criar uma linha:
   - Você precisa dar 2 clicks no canvas(quadro branco)
