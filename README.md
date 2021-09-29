@@ -4,6 +4,8 @@ Esse projeto foi desenvolvido durante a disciplina de Computação Gráfica. Nes
 biblioteca 2D do python para criar formas com o mouse e também fazer operações nas próprias figuras.
 Há também a criação do 3D a partir do 2D.
 
+## Instalação e como executa-lo
+
 As dependências que são precisas para rodar o projeto são:
   tkinter, numpy, pygame, OpenGL
 Logo, precisa dar:
