@@ -16,18 +16,25 @@ Como utiliza-lo?
  
 Para criar uma linha:
   - Você precisa dar 2 clicks no canvas(quadro branco)
+  
 Para criar um quadrado:
   - Você precisa dar 4 clicks no canvas(quadro branco)
+  
 Para criar um triângulo:
   - Você precisa dar 3 clicks no canvas(quadro branco)
+  
 Para criar um círculo:
   - Você precisa dar 2 clicks no canvas(quadro branco)
+  
 Para transladar uma figura geométrica:
   - Você clicka na figura e arasta ela pelo canvas
+  
 Para rotacionar uma figura geométrica:
   - Você clicka na figura escolhe um ângulo de rotação e clicka no botão rotação e clicka na figura
+  
 Para escalar uma figura geométrica:
   - Você clicka na figura escolhe uma escala e clicka no botão escala e clicka na figura
+  
 Para gerar o 3D da figura:
   - Você clicka na figura, aperta o botão gerar 3D e clicka na figura novamente, abrirá um tela pygame com a figura geométrica
  
